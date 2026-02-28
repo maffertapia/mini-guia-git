@@ -6,3 +6,8 @@
 
 ### Otros
 * `git status`: Ver qué está pasando.
+
+## Mi terminal con Glow 🧚🏽
+![Colores en la consola](img/glow.png)
+
+
