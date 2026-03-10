@@ -26,3 +26,13 @@ Para entender cómo guardamos cambios, imagina que tu proyecto es una obra de te
 
 Regla de oro: Escribe mensajes claros (ej. "Fix: error en el login" en lugar 
 de "cambios"). Si el mensaje es bueno, tu "yo del futuro" te lo agradecerá.
+
+---
+## 📚 Recursos Adicionales
+
+Para profundizar en el dominio de estas herramientas, recomiendo consultar:
+
+* [Documentación Oficial de Git](https://git-scm.com/doc): El manual definitivo para entender cada comando.
+* [Cheat Sheet de GitHub](https://education.github.com/git-cheat-sheet-education.pdf): Una hoja de trucos rápida para los comandos más usados.
+* [Guía de Markdown de GitHub](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): Para que tus archivos `.md` se vean increíbles.
+* [Oh My Git!](https://ohmygit.org/): Un juego interactivo para aprender Git de forma visual.
